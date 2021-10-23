@@ -1,0 +1,24 @@
+.login{
+    width: 100%;
+    background-color:#fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+button{
+    width: 250px;
+    height: 49px;
+    border: none;
+    outline: none;
+    border-radius: 49px;
+    cursor:pointer;
+    background-color: #5995fd;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    transition: .5s;
+}

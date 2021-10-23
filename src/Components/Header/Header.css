@@ -1,0 +1,32 @@
+.header{
+    width: 100%;
+    background-color:black;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.header a{
+    text-decoration: none;
+    width: 150px;
+    height: 49px;
+    border: none;
+    outline: none;
+    border-radius: 49px;
+    cursor:pointer;
+    background-color: #5995fd;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 10px;
+    transition: .5s;
+    line-height: 55px;
+    text-align: center
+
+
+}
+.a:hover{
+    background-color: gray;
+    border:2px 5px white;
+}
